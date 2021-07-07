@@ -1,0 +1,36 @@
+body{background-color: #efeee7;
+font-family: Georgia, 'Times New Roman', Times, serif;
+font:blue;
+margin: 0;
+padding: 0;
+}
+header{
+    background-color: #333333;
+}
+h1{
+    font-size: 28px;
+}
+h2{
+    font-size: 24px;
+}
+.container{
+    width: 1024px;
+    margin: 0 auto;
+}
+#main-bio{
+    float: left;
+}
+ #contact-info{
+     float: left;
+ } 
+ #bio-image {
+     float: left;
+ }
+
+
+/* 
+Be sure to zero out the body margins and padding so the page is flush to the top of the page:
+body {
+  margin: 0;
+  padding: 0;
+} */ 
